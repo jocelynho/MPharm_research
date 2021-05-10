@@ -1,5 +1,6 @@
-# MPharm_research
-##### Master of Pharmacy Research - Drug Repurposing using Machine Learning and Neural Networks
+# Master of Pharmacy Research - King's College London
+## Comparison of Network Topological Data versus Binary Representations of Drug-Protein Interactions for Drug Rep
+##### Drug Repurposing using Machine Learning and Neural Networks
 
 # Abstract
 ## Purpose
