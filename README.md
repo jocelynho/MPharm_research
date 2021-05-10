@@ -3,7 +3,7 @@
 
 # Abstract
 ## Purpose
-This study aims to compare performances of machine learning models using different representations of drug-protein interactions, including binary representation, quantitative representation, and biological network. Predictions of drug therapeutic classes from machine learning methods are used to identify drug repurposing opportunities.
+This study aims to compare performances of machine learning models using different representations of drug-protein interactions, including binary representation, quantitative representation, and biological neural network. Predictions of drug therapeutic classes from machine learning methods are used to identify drug repurposing opportunities.
 
 ## Methods
 Drug-protein information was extracted from BindingDB. Median binding affinity values were used. Anatomical Therapeutic Chemical classification codes were included as drug therapeutic classes. Quantitative matrix was
