@@ -13,4 +13,5 @@ obtained by data normalisation. Binary matrix was obtained by classifying bindin
 Biological networks resulted in the best performance in machine learning methods, followed by quantitative representation and lastly binary classification. Phentolamine, a cardiovascular agent, was found to be useful as a nervous system agent.
 
 # Poster
-[]('poster.pdf')
+Click [here]('poster.pdf') to view final poster presented to professors and students at King's College London.
+This presentation was awarded the Best Poster Award of the year.
